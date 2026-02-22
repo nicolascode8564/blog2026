@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: -10px;
+}
+.top_heading {
+    font-weight: 100;
+    cursor: pointer;
+}
+
+ol li {
+    display: inline-block;
+    margin-right: 20px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ol li:hover {
+    opacity: 40%;
+}
