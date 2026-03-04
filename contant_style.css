@@ -68,7 +68,7 @@ ol li:hover {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 0, 0);
     font-size: x-large;
-    text-shadow:  1px 1px rgb(255, 255, 255);
+    text-shadow:  1px 1px rgb(0, 0, 0);
 }
 
 .red-colortext {
